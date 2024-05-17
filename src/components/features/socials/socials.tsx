@@ -23,7 +23,7 @@ const Socials = React.forwardRef<HTMLDivElement>((props, ref) => {
           <a
             key={link.name}
             className="socials-link"
-            href={link.url} // 🔄 Ensure the URL is correct
+            href={link.url}
             target="_blank"
             rel="noreferrer"
           >

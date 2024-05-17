@@ -41,7 +41,6 @@ export const socialLinks = [
   },
 ]
 
-// 🚀 Navigation data: Customize navigation labels and links as needed.
 export const navbarData = {
   navigator: [
     { name: 'Home' },

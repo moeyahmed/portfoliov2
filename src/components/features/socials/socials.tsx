@@ -10,12 +10,10 @@ import {
 import './style.css'
 
 const Socials = React.forwardRef<HTMLDivElement>((props, ref) => {
-  // 🎨 Mapping icons to components for dynamic rendering
   const icons = { Github, Instagram, LinkedIn, Blog }
 
   return (
     <div ref={ref} className="socials">
-      {/* 🎯 Headings for the social media section */}
       <Headings title="On The Web" subtitle="More of my works" />
 
       <div className="socials-wrapper">

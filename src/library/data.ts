@@ -7,7 +7,7 @@ export const projects = [
     languages: ['React', 'Javascript'],
   },
   {
-    title: 'Mental Math website', // Enter project title.
+    title: 'Mental Math game', // Enter project title.
     githubUrl: 'https://github.com/moeyahmed/math-website', // Enter GitHub URL.
     externalUrl: '', // Enter live site URL.
     languages: ['Javascript', 'HTML', 'CSS'], // Specify technologies used.
@@ -19,7 +19,7 @@ export const projects = [
     languages: ['React', 'Javascript', 'CSS'],
   },
   {
-    title: 'Portfolio website',
+    title: 'Portfolio Website',
     githubUrl: '',
     externalUrl: '',
     languages: ['Next.js', 'CSS', 'TypeScript'],

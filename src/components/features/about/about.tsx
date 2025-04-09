@@ -6,14 +6,16 @@ const About = React.forwardRef<HTMLDivElement>((props, ref) => {
   return (
     <div ref={ref} className="about-section">
       {/* 🎯 Display the section title and subtitle */}
-      <Headings title="About" subtitle="Hi, I'm Mohamed." />{' '}
+      <Headings title="About" subtitle="Hi, I'm Mumin." />{' '}
       {/* 📝 Edit the biography below to reflect your own journey and interests */}
       <p className="about-text">
-        I'm Mohamed Ahmed, a dedicated Frontend Engineer and UNSW student. I
-        specialize in JavaScript, TypeScript, CSS, HTML, and Next.js, blending
-        technical expertise with a deep passion for frontend development. My
-        interests also extend to cybersecurity, where I explore ways to enhance
-        web safety and innovation.
+        I'm Mumin Ahmed, a dedicated Software Engineer and UTS student with a
+        strong focus on frontend development and data analytics. I specialize in
+        JavaScript, CSS, HTML, and Next.js, and I also work with Python to
+        explore data-driven solutions. Alongside my passion for clean,
+        user-focused design, I have a growing interest in cybersecurity, where I
+        enjoy exploring innovative ways to enhance digital safety and
+        resilience.
       </p>
     </div>
   )

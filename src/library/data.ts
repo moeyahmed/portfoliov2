@@ -2,26 +2,26 @@
 export const projects = [
   {
     title: 'F1 Scoreboard Tracker',
-    githubUrl: 'https://github.com/moeyahmed/F1-race-tracker-/tree/main',
-    externalUrl: 'https://f1-race-tracker.vercel.app/',
+    githubUrl: 'https://github.com/Muminprojects',
+    externalUrl: 'https://github.com/Muminprojects',
     languages: ['React', 'Javascript'],
   },
   {
     title: 'Mental Math game', // Enter project title.
-    githubUrl: 'https://github.com/moeyahmed/math-website', // Enter GitHub URL.
-    externalUrl: '', // Enter live site URL.
+    githubUrl: 'https://github.com/Muminprojects', // Enter GitHub URL.
+    externalUrl: 'https://github.com/Muminprojects', // Enter live site URL.
     languages: ['Javascript', 'HTML', 'CSS'], // Specify technologies used.
   },
   {
     title: 'Expence tracker',
-    githubUrl: 'https://github.com/moeyahmed/Expence_tracker_react',
-    externalUrl: 'https://expence-tracker-react-nine.vercel.app/',
+    githubUrl: 'https://github.com/Muminprojects',
+    externalUrl: 'https://github.com/Muminprojects',
     languages: ['React', 'Javascript', 'CSS'],
   },
   {
     title: 'Portfolio Website',
-    githubUrl: '',
-    externalUrl: '',
+    githubUrl: 'https://github.com/Muminprojects',
+    externalUrl: 'https://github.com/Muminprojects',
     languages: ['Next.js', 'CSS', 'TypeScript'],
   },
 ]
@@ -30,13 +30,13 @@ export const projects = [
 export const socialLinks = [
   {
     name: 'GitHub',
-    url: 'https://github.com/moeyahmed?tab=repositories',
+    url: 'https://github.com/Muminprojects',
     icon: 'Github',
   },
 
   {
     name: 'LinkedIn',
-    url: 'https://www.linkedin.com/in/mohamed-ahmed-a04245226/',
+    url: 'https://www.linkedin.com/in/mumin-ahmed-24563b268/',
     icon: 'LinkedIn',
   },
 ]
